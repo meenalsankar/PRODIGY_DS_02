@@ -21,3 +21,8 @@ The data cleaning and exploratory data analysis performed on the Titanic dataset
 ## Contact Information
 For any inquiries or feedback regarding this project, please contact:
 
+For any inquiries or collaborations, feel free to reach out:
+
+- Email: [meenaljaikrish@gmail.com](mailto:meenaljaikrish@gmail.com)
+- LinkedIn: [Meenal Sankar](https://www.linkedin.com/in/meenal-sankar/)
+
